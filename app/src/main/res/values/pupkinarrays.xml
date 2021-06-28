@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cities">
-        <item>Москва</item>
-        <item>Санкт-Петербург</item>
-        <item>Екатеринбург</item>
-        <item>Новосибирск</item>
-        <item>Самара</item>
+    <string-array name="names">
+        <item>Заметка 1</item>
+        <item>Заметка 2</item>
+        <item>Заметка 3</item>
+        <item>Заметка 4</item>
+        <item>Заметка 5</item>
+        <item>Заметка 6</item>
     </string-array>
 
-    <integer-array name="coat_of_arms_imgs">
-        <item>@drawable/msc</item>
-        <item>@drawable/spb</item>
-        <item>@drawable/ebrg</item>
-        <item>@drawable/nsk</item>
-        <item>@drawable/sam</item>
-    </integer-array>
+    <string-array name="text">
+        <item>Текст заметки 1</item>
+        <item>Текст заметки 2</item>
+        <item>Текст заметки 3</item>
+        <item>Текст заметки 4</item>
+        <item>Текст заметки 5</item>
+        <item>Текст заметки 6</item>
+    </string-array>
+
 
 </resources>

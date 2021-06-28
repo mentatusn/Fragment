@@ -48,7 +48,7 @@ public class CitiesFragment extends Fragment {
     }
 
     private void createTextViewList(LinearLayout linearLayout) {
-        String[] cities = getResources().getStringArray(R.array.cities);
+        String[] cities = getResources().getStringArray(R.array.names);
         for(int i=0;i<cities.length;i++){
             TextView textView = new TextView(getContext());
             textView.setText(cities[i]);
